@@ -1,4 +1,3 @@
 boby.varghese@timesinternet.in,
 ishita.rawat@timesinternet.in,
-neelmani.singh@timesinternet.in,
-testing@timesinternet.in
+neelmani.singh@timesinternet.in
